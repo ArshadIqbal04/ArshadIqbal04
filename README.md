@@ -17,7 +17,6 @@ class Bio extends SoftwareDeveloper {
 }
 class Skills extends SoftwareDeveloper {
   frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
-  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
   ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
 }
 ```
